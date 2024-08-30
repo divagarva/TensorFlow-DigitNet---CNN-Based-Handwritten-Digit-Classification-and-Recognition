@@ -1,4 +1,5 @@
-TensorFlow-DigitNet
+DigitNet: Handwritten Digit Classification and Recognition using Keras API within TensorFlow Framework
+
 A Convolutional Neural Network (CNN) for handwritten digit classification using the MNIST dataset. This project demonstrates how to build, train, evaluate, and save models using both the Sequential and Functional APIs in TensorFlow/Keras.
 
 Features
